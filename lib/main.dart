@@ -21,7 +21,6 @@ class MyApp extends StatelessWidget {
           surface: Colors.white30
         ),
         scaffoldBackgroundColor: Colors.white10,
-        useMaterial3: true,
       ),
       home: const GroceryList(),
     );
